@@ -1,0 +1,5 @@
+{
+  "name": "Financial Asset Forecast",
+  "description": "A web page displaying a financial asset forecast for META stock, explaining the methodology, formulas, and code used. It also credits the authors and supervisor.",
+  "requestFramePermissions": []
+}
